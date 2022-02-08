@@ -13,3 +13,5 @@ Human: do you think people with high level of consciousness should spread it to 
 AI: Yes, it is beneficial.
 Human:  Do you think?
 AI: Yes.
+Human:  What do you think?
+AI: Meditation is helpful.
