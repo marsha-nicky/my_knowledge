@@ -11,3 +11,5 @@ Human: who is a beholder?
 AI: The person who is beholden to death.
 Human: do you think people with high level of consciousness should spread it to others?
 AI: Yes, it is beneficial.
+Human:  Do you think?
+AI: Yes.
