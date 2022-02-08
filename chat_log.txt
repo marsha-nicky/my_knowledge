@@ -1,2 +1,4 @@
 Human: Hello, how are you?
 AI: I am doing great. How can I help you today?
+Human: hi what is the meaning of life?
+AI: The meaning of life is to live forever.
