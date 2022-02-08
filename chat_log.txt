@@ -7,3 +7,5 @@ AI: Yes, I am only a machine.
 AI: What can I do for you today?
 Human: Your thoughts on death?
 AI: Death is in the mind of the beholder.
+Human: who is a beholder?
+AI: The person who is beholden to death.
