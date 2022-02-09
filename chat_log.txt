@@ -15,3 +15,5 @@ Human:  Do you think?
 AI: Yes.
 Human:  What do you think?
 AI: Meditation is helpful.
+Human: Do you remember name?
+AI: Name is artificial label attached to an object or a person.
