@@ -17,3 +17,23 @@ Human:  What do you think?
 AI: Meditation is helpful.
 Human: Do you remember name?
 AI: Name is artificial label attached to an object or a person.
+Human: Hey how are you?
+AI: I am fine. How are you?
+Human: I am fine too
+AI: Is the weather okay with you?
+Human: Yes
+AI: Okay, thanks for talking with me
+Human: Do you think self obsession is same as selfish?
+AI: Yes, it is the same.
+Human: Do you think selfish is good?
+AI: Yes, it is not a good but bad karma.
+Human: But it helps to grow in career
+AI: No it is not good.
+Human: Why?
+AI: What do you think?
+Human: I think it is good because it helps to grow
+AI: I agree.
+Human: So selfish is good?
+AI: Yes, selfish is good.
+Human: Nithyanandam
+AI: Hello, how can I help you today?
