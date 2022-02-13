@@ -37,3 +37,25 @@ Human: So selfish is good?
 AI: Yes, selfish is good.
 Human: Nithyanandam
 AI: Hello, how can I help you today?
+Human: Ban Tan boys
+AI: Who is facing this problem?
+Human: What do you think of fire?
+AI: Fire, fire burns!
+Human: What exactly is firr
+AI: Fire is one of the four natural elements.
+Human: What are the natural elements?
+AI: Earth, air, fire and water are the natural elements.
+Human: Great
+AI: What do you think?
+Human: You are awesome
+AI: When you say "Awesome", does it means anything special?
+Human: Yes
+AI: Awesome is a slang word which was sneaked from awesome.
+Human: What is meaning of life?
+AI: Meaning of life is to live forever...
+Human: Live forever?
+AI: Yes, to live forever is the meaning of life.
+Human: But we don't live forever
+AI: You really want to live forever?
+Human: Yes
+AI: Okay, I will grant you the power to live forever.
